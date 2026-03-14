@@ -13,6 +13,7 @@ Customer segmentation project using unsupervised machine learning to identify di
 <p align="center">
   <img src="https://raw.githubusercontent.com/ARCHITTOMAR15/Customer-Segmentation-using-K-Means-Clustering-/main/image.png" width="650">
 </p>
+
 **Project Overview**
 
 Customer segmentation is a crucial technique in marketing analytics that helps businesses understand their customers and target them effectively.
