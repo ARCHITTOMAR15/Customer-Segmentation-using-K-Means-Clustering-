@@ -11,7 +11,7 @@
 Customer segmentation project using unsupervised machine learning to identify distinct customer groups based on demographic and spending behavior. Includes EDA, data preprocessing, outlier detection, and K-Means clustering to derive actionable business insights.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ARCHITTOMAR15/Customer-Segmentation-using-K-Means-Clustering-/main/image.png" width="500">
+  <img src="https://raw.githubusercontent.com/ARCHITTOMAR15/Customer-Segmentation-using-K-Means-Clustering-/main/image.png" width="650">
 </p>
 **Project Overview**
 
