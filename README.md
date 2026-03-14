@@ -10,9 +10,9 @@
 # Customer-Segmentation-using-K-Means-Clustering-
 Customer segmentation project using unsupervised machine learning to identify distinct customer groups based on demographic and spending behavior. Includes EDA, data preprocessing, outlier detection, and K-Means clustering to derive actionable business insights.
 
-
-
-<img src="images/clusters.png" width="400">
+<p align="center">
+  <img src="images/image.png" width="450">
+</p>
 **Project Overview**
 
 Customer segmentation is a crucial technique in marketing analytics that helps businesses understand their customers and target them effectively.
