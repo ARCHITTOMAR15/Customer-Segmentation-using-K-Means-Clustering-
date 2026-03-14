@@ -1,6 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-orange)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Customer-Segmentation-using-K-Means-Clustering-
 Customer segmentation project using unsupervised machine learning to identify distinct customer groups based on demographic and spending behavior. Includes EDA, data preprocessing, outlier detection, and K-Means clustering to derive actionable business insights.
 
+
+
+<img src="images/clusters.png" width="400">
 **Project Overview**
 
 Customer segmentation is a crucial technique in marketing analytics that helps businesses understand their customers and target them effectively.
