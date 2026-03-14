@@ -79,6 +79,7 @@ g.)Jupyter Notebook
 **Key Insights**
 
 Customer segmentation revealed different behavioral groups such as:
+
 1.High income – high spending customers
 
 2.High income – low spending customers
