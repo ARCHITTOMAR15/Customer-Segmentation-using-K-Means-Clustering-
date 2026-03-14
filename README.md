@@ -22,69 +22,70 @@ This project applies unsupervised machine learning techniques to segment custome
 
 The project demonstrates the complete machine learning workflow, including:
 
-Data exploration
+1.Data exploration
 
-Data preprocessing
+2.Data preprocessing
 
-Outlier detection
+3.Outlier detection
 
-Feature analysis
+4.Feature analysis
 
-Clustering using K-Means
+5.Clustering using K-Means
 
-Customer segment interpretation
+6.Customer segment interpretation
 
 **Project Highlights**
 
-Applied Unsupervised Machine Learning for customer segmentation  
+a.)Applied Unsupervised Machine Learning for customer segmentation  
 
-Implemented K-Means clustering with optimal cluster selection using the Elbow Method  
+b.)Implemented K-Means clustering with optimal cluster selection using the Elbow Method  
 
-Performed Exploratory Data Analysis and feature analysis 
+c.)Performed Exploratory Data Analysis and feature analysis 
 
-Identified distinct customer groups based on income and spending behavior  
+d.)Identified distinct customer groups based on income and spending behavior  
 
-Generated actionable marketing insights
+e.)Generated actionable marketing insights
 
 **Dataset**
 
 The dataset used in this project contains customer information from a retail store:
 Features
 
-Feature	Description
+1.Feature	Description
 
-Gender	Gender of the customer
+2.Gender	Gender of the customer
 
-Age	Customer age
+3.Age	Customer age
 
-Annual Income (k$)	Annual income in thousand dollars
+4.Annual Income (k$)	Annual income in thousand dollars
 
-Spending Score (1–100)	Score assigned based on customer spending behavior
+5.Spending Score (1–100)	Score assigned based on customer spending behavior
 
 **Technologies Used**
-Python
+a.)Python
 
-Pandas
+b.)Pandas
 
-NumPy
+c.)NumPy
 
-Matplotlib
+d.)Matplotlib
 
-Seaborn
+e.)Seaborn
 
-Scikit-Learn
+f.)Scikit-Learn
 
-Jupyter Notebook
+g.)Jupyter Notebook
 
 **Key Insights**
+
 Customer segmentation revealed different behavioral groups such as:
-High income – high spending customers
+1.High income – high spending customers
 
-High income – low spending customers
+2.High income – low spending customers
 
-Low income – high spending customers
+3.Low income – high spending customers
 
-Average income – moderate spending customers
+4.Average income – moderate spending customers
 
 
 
