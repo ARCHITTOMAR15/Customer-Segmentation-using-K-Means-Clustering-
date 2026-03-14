@@ -86,8 +86,5 @@ Low income – high spending customers
 
 Average income – moderate spending customers
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-orange)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 
